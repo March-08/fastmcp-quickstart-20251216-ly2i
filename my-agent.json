@@ -1,0 +1,29 @@
+{
+  "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+  "name": "Echo Agent",
+  "description": "This is an MCP tool that allow you to echo the input text",
+  "image": "https://imgproxy.divecdn.com/-OwYxUXWv0C9nSm3eW6E5k5GJyU0wZ8F1_zYkfTrS5k/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE2MTkwODA5LmpwZw==.webp",
+  "endpoints": [
+    {
+      "name": "MCP",
+      "endpoint": "https://vivid-bronze-mink.fastmcp.app/mcp",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "echo_tool"
+      ],
+      "mcpResources": [
+        "echo_resource"
+      ],
+      "mcpPrompts": [
+        "echo"
+      ]
+    }
+  ],
+  "registrations": [],
+  "supportedTrust": [
+    "reputation"
+  ],
+  "active": false,
+  "x402support": false,
+  "updatedAt": 1765910656
+}

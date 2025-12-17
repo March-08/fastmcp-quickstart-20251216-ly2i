@@ -19,7 +19,12 @@
       ]
     }
   ],
-  "registrations": [],
+  "registrations": [
+    {
+      "agentId": 4447,
+      "agentRegistry": "eip155:11155111:0x8004a6090Cd10A7288092483047B097295Fb8847"
+    }
+  ],
   "supportedTrust": [
     "reputation"
   ],
